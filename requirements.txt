@@ -1,0 +1,5 @@
+python-telegram-bot
+httpx
+# You don't strictly need the 'requests' library anymore, 
+# but include it if you used it elsewhere:
+# requests
